@@ -5,6 +5,24 @@
 - 기본적인 명제와 연산자, 역, 이, 대우 동치에 대한 이해
 - 논리학, 집합론, 수론, 조합론, 관계, 그래프 이론과 형식언어와 오토마타의 이해
 
+
+
+## 학습 순서
+
+### 1. 이산수학 기초
+
+### 2. 명제, 추론, 귀납, 부울대수
+
+### 3. 알고리즘, 그래프
+
+### 4.형식언어와 오토마타, 셈
+
+### 5. 관계, 부분순서
+
+
+
+
+
 ### 추가 교재 및 참고자료
 
 <details>
@@ -14,7 +32,7 @@
   https://www.youtube.com/playlist?list=PLRx0vPvlEmdDgOIBt9MKQl-uMVrxtac4n
 - 이산수학의 주요 이론들을 전반적으로 다루고 있으며 문제와 해설까지 해줘서 효과적으로 학습이 가능합니다. (순서를 재정리한 별도 링크 사용)
   https://www.youtube.com/playlist?list=PLW8wOTYOluvFr4favjXEVXMghqQNYOOqI
-</details>
+  </details>
 
 <details>
 <summary>교재 : [컴퓨팅 사고력을 키우는 이산수학](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791156643050)</summary>
@@ -48,3 +66,4 @@
 - 촘스키 정규 형식과 멤버십 알고리즘
 - 튜링 기계와 문제
 </details>
+
