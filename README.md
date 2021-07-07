@@ -1,7 +1,14 @@
 # CS 학습 플랜/정리 템플릿
 과목별 추천 동영상 강의를 중심으로 진도를 추적하고 배운 내용을 정리하기 위한 템플릿
 
-### 이산 수학
+
+
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) <a href="https://hits.seeyoufarm.com"/><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/daehyun1023/Computer-Science"/></a>
+
+</div>
+
+</div>이산 수학
+
 |파트|진행상태|학습시간|강의내용|비고|
 | ------ | ------ | ------ | ------ | ------ |
 | | | | [강의 개요](이산-수학) | 권장 학습기간: `2주`, 학습분량: 주당 `7.5시간` |
