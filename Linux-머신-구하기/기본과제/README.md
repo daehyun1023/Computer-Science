@@ -29,7 +29,7 @@ Virtual Box의 경우 속도가 느리고 무겁다.
 1. Microsoft Store에서 Terminal을 검색 or Chocolately에서 Terminal 검색
 2. Power Shell(관리자 권한으로 실행)에서 `choco install microsoft-windows-terminal` 를 통해 설치
 3. windows terminal을 실행
-   - wihndows 터미널에서 power shell, 명령 프롬프트, azure cloud shell을 사용할 수 있다.
+   - windows 터미널에서 power shell, 명령 프롬프트, azure cloud shell을 사용할 수 있다.
 4. 구글에서 enable wsl2 검색
    - 터미널(관리자 권한으로 실행)에 `dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart` 실행
 5. Microsoft Store에서 ubuntu를 설치
